@@ -1,0 +1,12 @@
+/resources/*_strings.json
+/resources/config.json
+/resources/mapcache.db
+/resources/packs/
+logs
+Intersect Editor.pdb
+Intersect.zip
+tools
+MonoGame.Framework.Client.dll
+SDL2.dll
+soft_oal.dll
+sqlite3.dll
