@@ -2,6 +2,7 @@
 /resources/config.json
 /resources/mapcache.db
 /resources/packs/
+/resources/gui/
 logs
 Intersect Editor.pdb
 Intersect.zip
